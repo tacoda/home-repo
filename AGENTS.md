@@ -9,6 +9,8 @@ tacoda.github.io (personal GitHub Pages site — essays on agent engineering): ~
 
 keystone (Go tool — charter-based governance for coding agents): ~/repos/keystone. Clone from git@github.com:tacoda/keystone.git if missing. Read its AGENTS.md first — it is keystone-chartered.
 
+lark (new project — empty repo, initial implementation being planned): ~/repos/lark. Clone from git@github.com:tacoda/lark.git if missing.
+
 Add a hint line where a repo needs one (e.g. "read its AGENTS.md first").
 
 ## Layout
